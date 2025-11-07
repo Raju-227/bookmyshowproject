@@ -1,0 +1,6 @@
+projectKey=BMS
+serverUrl=http://54.252.206.174:9090
+serverVersion=25.11.0.114957
+dashboardUrl=http://54.252.206.174:9090/dashboard?id=BMS
+ceTaskId=ef835927-c257-4c4e-929e-a716872549f9
+ceTaskUrl=http://54.252.206.174:9090/api/ce/task?id=ef835927-c257-4c4e-929e-a716872549f9
